@@ -177,9 +177,8 @@ class HomeScreen extends StatelessWidget {
                         productCard(image: 'assets/images/payEnak.jpg', titleName: 'Apple Pie', duration: '50 Menit', status: 'Tunggu', statusColors: Colors.orange,),
                         productCard(image: 'assets/images/burger.jpg', titleName: 'Beef Burger', duration: '30 Menit', status: 'Tunggu', statusColors: Colors.orange),
                         productCard(image: 'assets/images/indomie.jpg', titleName: 'Ramen Udang', duration: '30 Menit', status: 'Habis', statusColors: Colors.red),
-                        productCard(image: 'assets/images/takoyaki.jpg', titleName: 'Karage', duration: '30 Menit', status: 'Tunggu', statusColors: Colors.orange),
-                        productCard(image: 'assets/images/karage.jpg', titleName: 'Takoyaki', duration: '30 Menit', status: 'Tunggu', statusColors: Colors.orange),
-                        
+                        productCard(image: 'assets/images/karage.jpg', titleName: 'Karage', duration: '30 Menit', status: 'Tunggu', statusColors: Colors.orange),
+                        productCard(image: 'assets/images/takoyaki.jpg', titleName: 'Takoyaki', duration: '30 Menit', status: 'Tunggu', statusColors: Colors.orange), 
                     ],
                   ),
                 ),
